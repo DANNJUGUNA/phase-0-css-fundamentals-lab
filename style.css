@@ -2,4 +2,23 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  text-align: center;
+}
+#featured-property p{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+#featured-property img{
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+}
+#details{
+  display: flex;
+  background-color: red;
+}
+#details div{
+  float: left;
+  width: 25%;
 }
